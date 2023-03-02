@@ -40,7 +40,7 @@
     "connect-redis": "^5.0.0",
     "express-session": "^1.17.1",
     "keycloak-admin": "^1.13.0",
-    "keycloak-connect": "^11.0.0",
+    "keycloak-connect": "^21.0.1",
     "loopback-connector-esv6": "https://github.com/codeedu/loopback-connector-elastic-search/tarball/master",
     "loopback-datasource-juggler": "^4.21.2",
     "multer": "^1.4.2",
